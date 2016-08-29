@@ -4,7 +4,7 @@
 ![Site Screenshot](https://raw.githubusercontent.com/debragordon/css-bank/master/screenshots/css-bankform.png)
 
 ## Description
-We were tasked to build a basic banking form and utilize the basic input types - text fields, radio buttons, checkboxes, email ... to name a few. This is a showcase of element implementation and basic CSS styling.  Note: this form is not connecte to Javascript and is not a functioning form.
+We were tasked to build a basic banking form and utilize the basic input types - text fields, radio buttons, checkboxes, email ... to name a few. This is a showcase of element implementation and basic CSS styling.  Note: this form is not connected to Javascript and is not a functioning form.
 
 ## How to Run
 1. Clone repo to your local computer
